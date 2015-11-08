@@ -1,0 +1,36 @@
+
+body {
+    background-color: burlywood;
+}
+
+table{
+    /*margin: 10% 10% 10% 10% ;*/
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-bottom: 30%;
+    margin-left: 20%;
+
+    border: solid 1px;
+    color: blue;
+}
+
+label {
+    font-size: 25px;
+    font-family: Arial;
+    color: blue;
+}
+
+#lblGender
+{
+   font-size: 25px;
+   color: red;
+}
+
+.lbl-brown
+{
+    color: brown;
+}
+
+.lbl-red{
+    color: red;
+}
